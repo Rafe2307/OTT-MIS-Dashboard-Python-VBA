@@ -127,7 +127,7 @@ This type of automation was built to solve real reporting challenges:
 ## 👤 Author
 
 **Abdul Jabbar M**
-- 🔗 [LinkedIn](https://www.linkedin.com/in/abdul-jabbar-04952713a/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/abdul-jabbar-m/)
 - 💼 Deputy Manager — Wipro Technologies
 - 🛠️ Data Analyst | Power BI Developer | VBA & Python Automation Specialist
 - 📧 abduljabbarrafe.m@gmail.com
